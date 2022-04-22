@@ -1,0 +1,477 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Sergio",
+      "surnames": "Casero Hernández",
+      "title": "Kotlin multiplatform Engineer",
+      "description": "I have been an Android engineer for more than 6 years, and I have been working with Kotlin since 2015. I currently work as a Mobile Team Lead at Worldline Iberia. Software lover in general and Android + IoT in particular. Arduino FTW! Open Source is the way",
+      "avatar": {
+        "alt": "sergio_logo.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/c9f00884-0ab8-4b9d-9c88-83f1f5181fd5_sergio_logo.jpeg"
+      },
+      "location": {
+        "notes": "Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/sergiocasero"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/sergiocasero"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/sergioch23"
+      },
+      {
+        "type": "other",
+        "URL": "https://sergiocasero.es"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Worldline Global",
+          "image": {
+            "alt": "iu.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/6471cd28-5e51-462d-9929-3e1fe1b40eab_iu.png"
+          },
+          "URL": "https://worldline.com"
+        },
+        "roles": [
+          {
+            "name": "Junior Android Engineer (intern)",
+            "startDate": "2015-12-01",
+            "finishDate": "2016-03-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "RxJava",
+                "type": "technology"
+              },
+              {
+                "name": "Realm",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Worldline Global",
+          "image": {
+            "alt": "iu.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/02db682f-6484-422e-82b7-6da897c3d961_iu.png"
+          },
+          "URL": "https://worldline.com"
+        },
+        "roles": [
+          {
+            "name": "Junior Android Engineer",
+            "startDate": "2016-03-01",
+            "finishDate": "2017-04-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Android SDK",
+                "type": "technology"
+              },
+              {
+                "name": "SQLite",
+                "type": "technology"
+              },
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "RxJava",
+                "type": "technology"
+              },
+              {
+                "name": "Retrofit",
+                "type": "technology"
+              },
+              {
+                "name": "Realm",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Worldline Global",
+          "image": {
+            "alt": "iu.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/d4c98561-bfb0-4f5c-b2ca-e8096fc05e9a_iu.png"
+          },
+          "URL": "https://worldline.com"
+        },
+        "roles": [
+          {
+            "name": "Senior Android Engineer",
+            "startDate": "2017-04-01",
+            "finishDate": "2019-02-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Worldline Global",
+          "image": {
+            "alt": "iu.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/ee5caaa0-07ea-42a7-9878-965684aee582_iu.png"
+          },
+          "URL": "https://worldline.com"
+        },
+        "roles": [
+          {
+            "name": "Android Deputy Team Lead",
+            "startDate": "2019-02-01",
+            "finishDate": "2019-10-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Worldline Global",
+          "image": {
+            "alt": "iu.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/7527e4d0-f55a-4c75-b8e5-e12c235bad0d_iu.png"
+          },
+          "URL": "https://worldline.com"
+        },
+        "roles": [
+          {
+            "name": "Mobile Team Lead & (Mobile|Frontend expert Lead)",
+            "startDate": "2019-10-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "COLIN - The catering App",
+          "description": "Colin is an application for managing the catering inside the CrossCountry trains. It is used by the operators in the train. Is like a \"eCommerce\" focused on the \"offline mode\".",
+          "image": {
+            "alt": "iu.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/d7da4176-9baa-4292-b8ae-67fe38f7321a_iu.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-12-01",
+            "finishDate": "2016-12-01",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Android SDK",
+                "type": "technology"
+              },
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Eroski App",
+          "description": "The Eroski App is our first app entirely written with Kotlin Multiplatform. It ables you to manage your coupons, offers, see the nearest Eroski stores...\n\nhttps://play.google.com/store/apps/details?id=com.tempos21.eroskiclub.pro\nhttps://www.eroski.es/apps-eroski/",
+          "URL": "",
+          "image": {
+            "alt": "unnamed-2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/2e31a195-4819-4d71-9ba1-167340d5dd1a_unnamed-2.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-03-01",
+            "finishDate": "2021-04-01",
+            "competences": [
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Butxaca Flutter App",
+          "description": "Barcelona a la butxaca is the Barcelona City Council mobile application that offers the main municipal services for citizens in a single access point.",
+          "URL": "https://play.google.com/store/apps/details?id=cat.bcn.butxaca&language=en",
+          "image": {
+            "alt": "unnamed.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/144c3bf7-cb34-4530-84f0-b20e71d25f8e_unnamed.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-04-01",
+            "finishDate": "2021-04-01",
+            "competences": [
+              {
+                "name": "Flutter",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "GEMMA Mobile App",
+          "description": "Gemma App is used for helping doctors, firefighters, police.. to manage all the incidents in real time."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-01-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Olympique Lyonnais Official App",
+          "description": "",
+          "URL": "https://play.google.com/store/apps/details?id=com.olympiquelyonnais.android",
+          "image": {
+            "alt": "unnamed-3.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/189e5e15-4352-46b7-8f4a-edaa912080c1_unnamed-3.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-06-01",
+            "finishDate": "2019-12-01"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "iOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android SDK",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XCode",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "swiftUI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JetPack",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Consumer Electronics technician",
+        "startDate": "2008-09-01",
+        "finishDate": "2010-06-01",
+        "institution": {
+          "name": "\"Ciudad Jardín\" Institute, Badajoz",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Senior Technician in Networked Computer Systems",
+        "startDate": "2010-09-01",
+        "finishDate": "2012-06-01",
+        "institution": {
+          "name": "\"Guadalupe\" institute at Badajoz",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Software Engineer",
+        "startDate": "2012-09-01",
+        "finishDate": "2016-01-01",
+        "institution": {
+          "name": "University of Extremadura",
+          "description": "",
+          "URL": "https://www.unex.es",
+          "image": {
+            "alt": "1521623166275.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/a72fa255-1c33-4b5f-b3a8-1796d19b84a6_1521623166275.jpeg"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://linkedin.com/in/sergiocasero"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Android",
+          "type": "technology"
+        },
+        {
+          "name": "Android SDK",
+          "type": "technology"
+        },
+        {
+          "name": "Android Studio",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "iOS",
+          "type": "technology"
+        },
+        {
+          "name": "Swift",
+          "type": "technology"
+        },
+        {
+          "name": "Flutter",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
