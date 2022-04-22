@@ -380,6 +380,18 @@
         "tags": [
           "Tech talk"
         ]
+      },
+      {
+        "details": {
+          "name": "Flutter vs Kotlin Multiplatform",
+          "description": "",
+          "URL": "https://www.youtube.com/watch?v=X-gsEVqxcQA"
+        },
+        "type": "talk",
+        "publishingDate": "2020-07-01",
+        "tags": [
+          "Tech talk"
+        ]
       }
     ]
   },
