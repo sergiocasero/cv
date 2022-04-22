@@ -262,8 +262,13 @@
       },
       {
         "details": {
-          "name": "GEMMA Mobile App",
-          "description": "Gemma App is used for helping doctors, firefighters, police.. to manage all the incidents in real time."
+          "name": "GEMMA Android&iOS App",
+          "description": "Gemma App is used for helping doctors, firefighters, police.. to manage all the incidents in real time.\n\nWorking as Software Architect",
+          "URL": "",
+          "image": {
+            "alt": "kmm.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/83a3db61-b77b-4f45-ba3b-2539b50e84f9_kmm.png"
+          }
         },
         "type": "sideProject",
         "roles": [
