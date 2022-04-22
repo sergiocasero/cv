@@ -392,6 +392,22 @@
         "tags": [
           "Tech talk"
         ]
+      },
+      {
+        "details": {
+          "name": "Kotlin Multiplatform. The best choice",
+          "description": "One of the main concerns in mobile development is to develop the same application twice (for Android and iOS), although they share the same features. At some point in mobile history, it was even worse: iOS, Android, WindowsPhone and Blackberry.\n\nOver the years, many companies and communities have tried to alleviate this problem with different tools​​/frameworks. The long-awaited Holy Grail of cross-platform development is an idea that is old and simple, Write once, run anywhere (WORA).\n\nAfter many years searching for this, it looks like we now have some options that make cross-platform feasible, and they are not just another promise of the Holy Grail.\n\nIn this post we are going to give you a broad view of crossplatform options, and a deeper look into Kotlin Multiplatform from a technical and an organizational perspective.",
+          "URL": "https://blog.worldline.tech/2022/01/26/kotlin_multiplatform.html",
+          "image": {
+            "alt": "kmm.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/25acbaab-b114-42d8-a14d-1d874a50cd3f_kmm.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2022-01-01",
+        "tags": [
+          ""
+        ]
       }
     ]
   },
