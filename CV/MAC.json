@@ -200,38 +200,6 @@
     "projects": [
       {
         "details": {
-          "name": "COLIN - The catering App",
-          "description": "Colin is an application for managing the catering inside the CrossCountry trains. It is used by the operators in the train. Is like a \"eCommerce\" focused on the \"offline mode\".",
-          "image": {
-            "alt": "iu.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/d7da4176-9baa-4292-b8ae-67fe38f7321a_iu.jpeg"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2015-12-01",
-            "finishDate": "2016-12-01",
-            "competences": [
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "Android SDK",
-                "type": "technology"
-              },
-              {
-                "name": "Android Studio",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Eroski App",
           "description": "The Eroski App is our first app entirely written with Kotlin Multiplatform. It ables you to manage your coupons, offers, see the nearest Eroski stores...\n\nhttps://play.google.com/store/apps/details?id=com.tempos21.eroskiclub.pro\nhttps://www.eroski.es/apps-eroski/",
           "URL": "",
@@ -335,6 +303,39 @@
             "name": "Developer",
             "startDate": "2017-12-01",
             "finishDate": "2018-06-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "COLIN - The catering Android App",
+          "description": "Colin is an application for managing the catering inside the CrossCountry trains. It is used by the operators in the train. Is like a \"eCommerce\" focused on the \"offline mode\".",
+          "URL": "",
+          "image": {
+            "alt": "iu.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/d7da4176-9baa-4292-b8ae-67fe38f7321a_iu.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-12-01",
+            "finishDate": "2016-12-01",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Android SDK",
+                "type": "technology"
+              },
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              }
+            ]
           }
         ]
       }
