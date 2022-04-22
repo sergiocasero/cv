@@ -262,7 +262,7 @@
       },
       {
         "details": {
-          "name": "GEMMA Android&iOS App",
+          "name": "GEMMA Android&iOS Kotlin Multiplatform App",
           "description": "Gemma App is used for helping doctors, firefighters, police.. to manage all the incidents in real time.\n\nWorking as Software Architect",
           "URL": "",
           "image": {
