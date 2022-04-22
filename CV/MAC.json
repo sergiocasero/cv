@@ -200,7 +200,7 @@
     "projects": [
       {
         "details": {
-          "name": "Eroski Android&iOS multiplatform App",
+          "name": "Eroski Android&iOS Kotlin Multiplatform App",
           "description": "The Eroski App is our first app entirely written with Kotlin Multiplatform. It ables you to manage your coupons, offers, see the nearest Eroski stores...\n\nhttps://play.google.com/store/apps/details?id=com.tempos21.eroskiclub.pro\nhttps://www.eroski.es/apps-eroski/",
           "URL": "",
           "image": {
