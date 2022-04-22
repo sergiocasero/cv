@@ -367,6 +367,20 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Kotlin Multiplatform. A language to dominate them all",
+          "description": "",
+          "URL": "https://www.youtube.com/watch?v=j7EqzDf2Ons&t=811s"
+        },
+        "type": "talk",
+        "publishingDate": "2019-12-01",
+        "tags": [
+          "Tech talk"
+        ]
+      }
     ]
   },
   "knowledge": {
