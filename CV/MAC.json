@@ -301,7 +301,11 @@
         "details": {
           "name": "Sabadell Consumer Finance Android App",
           "description": "Working as Software Architect",
-          "URL": ""
+          "URL": "",
+          "image": {
+            "alt": "iu-2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/21ce777b-a0ad-4e60-a2c3-fb13343afc97_iu-2.png"
+          }
         },
         "type": "openSource",
         "roles": [
