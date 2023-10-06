@@ -412,6 +412,12 @@
       },
       {
         "skill": {
+          "name": "Flutter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JetPack",
           "type": "technology"
         }
@@ -563,6 +569,12 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Android",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "The perfect job I looking for is the ones that ables me to learn every day",
     "projects": [
       {
