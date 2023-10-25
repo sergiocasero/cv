@@ -9,7 +9,7 @@
       "name": "Sergio",
       "surnames": "Casero Hernández",
       "title": "Android&iOS Engineer (Kotlin Multiplatform)",
-      "description": "I have been an Android engineer for more than 7 years, and I have been working with Kotlin since 2015. In addition to my extensive experience in Android, I have also been actively involved in iOS development for the past 3 years. Notably, I have dedicated 4 years to working with Flutter, showcasing my expertise in cross-platform mobile app development. I currently work as a Mobile Team Lead at Worldline Iberia, where my passion for software extends beyond mobile platforms to include Android, iOS, and Flutter development. I am also fascinated by the world of Generative AI, and I have dedicated 1 year to exploring and working with this innovative technology. As a dedicated software enthusiast, I have been a remote worker since 2017, and I strongly believe in the principles of open source development.",
+      "description": "I have been an Android engineer for more than 7 years, and I have been working with Kotlin since 2015. In addition to my extensive experience in Android, I have also been actively involved in iOS development for the past 3 years. Notably, I have dedicated 4 years to working with Flutter, showcasing my expertise in cross-platform mobile app development. I currently work as a Mobile Team Lead at Worldline Iberia. I am also fascinated by the world of Generative AI, and I have dedicated 1 year to exploring and working with this innovative technology. As a dedicated software enthusiast, I have been a remote worker since 2017, and I strongly believe in the principles of open source development.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/c9f00884-0ab8-4b9d-9c88-83f1f5181fd5_sergio_logo.jpeg",
         "alt": "sergio_logo.jpeg"
@@ -20,6 +20,18 @@
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/sergiocasero"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/sergiocasero"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/sergioch23"
+      },
       {
         "type": "other",
         "URL": "https://sergiocasero.es"
