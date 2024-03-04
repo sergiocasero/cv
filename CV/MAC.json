@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -176,110 +176,6 @@
     "projects": [
       {
         "details": {
-          "name": "COLIN - The catering Android App",
-          "description": "Colin is an application for managing the catering inside the CrossCountry trains. It is used by the operators in the train. Is like a \"eCommerce\" focused on the \"offline mode\".\n\nWorking as a Junior Engineer",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/d7da4176-9baa-4292-b8ae-67fe38f7321a_iu.jpeg",
-            "alt": "iu.jpeg"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2015-12-01",
-            "competences": [
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "Android SDK",
-                "type": "technology"
-              },
-              {
-                "name": "Android Studio",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2016-12-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Sabadell Consumer Finance Android App",
-          "description": "Working as Software Architect",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/21ce777b-a0ad-4e60-a2c3-fb13343afc97_iu-2.png",
-            "alt": "iu-2.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2017-12-01",
-            "finishDate": "2018-06-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "GEMMA Android&iOS Kotlin Multiplatform App",
-          "description": "Gemma App is used for helping doctors, firefighters, police.. to manage all the incidents in real time.\n\nWorking as Software Architect",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/0fd7a69b-5ee7-486f-b540-bda7b3765956_kmm.png",
-            "alt": "kmm.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2018-01-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "WLMOBILEPAY",
-          "description": "This applications turns your smartphone into a POS terminal",
-          "URL": "https://play.google.com/store/apps/details?id=com.worldline.mprime",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/f5693b38-0832-430e-82ba-2f96d28af50e_unnamed-4.png",
-            "alt": "unnamed-4.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2019-09-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Olympique Lyonnais Official Android/iOS App",
-          "description": "Working as Software Architect",
-          "URL": "https://play.google.com/store/apps/details?id=com.olympiquelyonnais.android",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/189e5e15-4352-46b7-8f4a-edaa912080c1_unnamed-3.png",
-            "alt": "unnamed-3.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2018-06-01",
-            "finishDate": "2019-12-01"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Butxaca Flutter App",
           "description": "Barcelona a la butxaca is the Barcelona City Council mobile application that offers the main municipal services for citizens in a single access point.",
           "URL": "https://play.google.com/store/apps/details?id=cat.bcn.butxaca&language=en",
@@ -338,6 +234,110 @@
             "finishDate": "2021-04-01"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "WLMOBILEPAY",
+          "description": "This applications turns your smartphone into a POS terminal",
+          "URL": "https://play.google.com/store/apps/details?id=com.worldline.mprime",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/f5693b38-0832-430e-82ba-2f96d28af50e_unnamed-4.png",
+            "alt": "unnamed-4.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-09-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Olympique Lyonnais Official Android/iOS App",
+          "description": "Working as Software Architect",
+          "URL": "https://play.google.com/store/apps/details?id=com.olympiquelyonnais.android",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/189e5e15-4352-46b7-8f4a-edaa912080c1_unnamed-3.png",
+            "alt": "unnamed-3.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-06-01",
+            "finishDate": "2019-12-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "GEMMA Android&iOS Kotlin Multiplatform App",
+          "description": "Gemma App is used for helping doctors, firefighters, police.. to manage all the incidents in real time.\n\nWorking as Software Architect",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/0fd7a69b-5ee7-486f-b540-bda7b3765956_kmm.png",
+            "alt": "kmm.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-01-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Sabadell Consumer Finance Android App",
+          "description": "Working as Software Architect",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/21ce777b-a0ad-4e60-a2c3-fb13343afc97_iu-2.png",
+            "alt": "iu-2.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-12-01",
+            "finishDate": "2018-06-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "COLIN - The catering Android App",
+          "description": "Colin is an application for managing the catering inside the CrossCountry trains. It is used by the operators in the train. Is like a \"eCommerce\" focused on the \"offline mode\".\n\nWorking as a Junior Engineer",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/d7da4176-9baa-4292-b8ae-67fe38f7321a_iu.jpeg",
+            "alt": "iu.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-12-01",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Android SDK",
+                "type": "technology"
+              },
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2016-12-01"
+          }
+        ]
       }
     ],
     "publicArtifacts": [
@@ -390,10 +390,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       }
     ],
@@ -535,12 +537,6 @@
       ],
       "contactMails": [
         "sergio.casero23@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "606139252",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -578,7 +574,7 @@
         "Software Architect"
       ]
     },
-    "status": "notAvailable"
+    "status": "searchingActively"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
