@@ -571,7 +571,12 @@
         "Software Architect"
       ]
     },
-    "status": "searchingActively"
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "freelance"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
