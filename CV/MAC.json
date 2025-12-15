@@ -42,6 +42,44 @@
     "jobs": [
       {
         "organization": {
+          "name": "Parser Digital"
+        },
+        "roles": [
+          {
+            "name": "Senior Mobile Expert",
+            "startDate": "2025-02-01",
+            "challenges": [
+              {
+                "description": "Leading the KMP part of the Financial Times application"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin Multiplatform Mobile",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Worldline Global",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/7527e4d0-f55a-4c75-b8e5-e12c235bad0d_iu.png",
@@ -574,6 +612,7 @@
     "status": "searchingActively",
     "requirements": {
       "contractTypes": [
+        "permanent",
         "freelance"
       ]
     }
