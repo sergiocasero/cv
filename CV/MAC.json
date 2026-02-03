@@ -482,6 +482,12 @@
       },
       {
         "skill": {
+          "name": "Kotlin Multiplatform Mobile",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Swift",
           "type": "technology"
         }
@@ -621,6 +627,18 @@
     "mainStackTechs": [
       {
         "name": "Android",
+        "type": "technology"
+      },
+      {
+        "name": "Kotlin",
+        "type": "technology"
+      },
+      {
+        "name": "Kotlin Multiplatform Mobile",
+        "type": "technology"
+      },
+      {
+        "name": "Swift",
         "type": "technology"
       }
     ],
