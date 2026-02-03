@@ -42,7 +42,11 @@
     "jobs": [
       {
         "organization": {
-          "name": "Parser Digital"
+          "name": "Parser Digital",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/02/03/ef54ab3f-d5f5-4645-a957-5b366852b4d5_parser_logo.jpeg",
+            "alt": "parser_logo.jpeg"
+          }
         },
         "roles": [
           {
