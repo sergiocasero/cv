@@ -421,7 +421,26 @@
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2018-01-01"
+            "startDate": "2018-01-01",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Swagger",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2021-01-01"
           }
         ]
       },
