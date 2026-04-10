@@ -258,6 +258,46 @@
       },
       {
         "details": {
+          "name": "MarwanAI",
+          "description": "Founder & CEO of MarwanAI, an AI-focused initiative dedicated to building and deploying scalable solutions based on open-source large language models (LLMs).\n\nLeading the design and implementation of AI infrastructure, including provisioning, optimization, and deployment of LLMs using technologies such as vLLM.\n\nFocused on creating efficient, production-ready systems that integrate AI capabilities into real-world applications, combining backend development, infrastructure, and machine learning systems.",
+          "URL": "https://marwanai.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/04/10/559aca58-caad-4bdf-881d-dc3e7ecd334f_marwanai-logo.png",
+            "alt": "MarwanAI-Logo.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-01-01",
+            "competences": [
+              {
+                "name": "Deepseek AI",
+                "type": "technology"
+              },
+              {
+                "name": "Gemma",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin Multiplatform Mobile",
+                "type": "technology"
+              },
+              {
+                "name": "Qwen",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Butxaca Flutter App",
           "description": "Barcelona a la butxaca is the Barcelona City Council mobile application that offers the main municipal services for citizens in a single access point.",
           "URL": "https://play.google.com/store/apps/details?id=cat.bcn.butxaca&language=en",
@@ -703,6 +743,9 @@
       },
       {
         "name": "GEMMA Android&iOS Kotlin Multiplatform App"
+      },
+      {
+        "name": "MarwanAI"
       },
       {
         "name": "Olympique Lyonnais Official Android/iOS App"
