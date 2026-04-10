@@ -95,6 +95,11 @@
           {
             "name": "CEO",
             "startDate": "2025-01-01",
+            "challenges": [
+              {
+                "description": "Founder of MarwanAI, building AI solutions and infrastructure powered by open-source LLMs."
+              }
+            ],
             "competences": [
               {
                 "name": "Deepseek AI",
