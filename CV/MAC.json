@@ -371,7 +371,8 @@
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2019-09-01"
+            "startDate": "2019-09-01",
+            "finishDate": "2025-02-01"
           }
         ]
       },
