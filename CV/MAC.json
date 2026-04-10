@@ -218,6 +218,45 @@
     "projects": [
       {
         "details": {
+          "name": "Financial Times",
+          "description": "Leading the Kotlin Multiplatform (KMP) strategy for the native mobile application of the Financial Times, a global product with millions of users worldwide.\n\nResponsible for defining and implementing cross-platform architecture, enabling code sharing between Android and iOS while maintaining high performance and platform-specific quality.\n\nWorking closely with cross-functional teams to ensure scalable, maintainable, and production-ready solutions, improving development efficiency and reducing duplication across platforms.\n\nDriving adoption of modern mobile technologies and best practices within a high-impact, large-scale product environment.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/04/10/e525c1b4-c23c-49fc-9792-1908bab5ffc5_ft.png",
+            "alt": "ft.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-02-01",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Android SDK",
+                "type": "technology"
+              },
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin Multiplatform Mobile",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Butxaca Flutter App",
           "description": "Barcelona a la butxaca is the Barcelona City Council mobile application that offers the main municipal services for citizens in a single access point.",
           "URL": "https://play.google.com/store/apps/details?id=cat.bcn.butxaca&language=en",
@@ -657,6 +696,9 @@
       },
       {
         "name": "Eroski Android&iOS Kotlin Multiplatform App"
+      },
+      {
+        "name": "Financial Times"
       },
       {
         "name": "GEMMA Android&iOS Kotlin Multiplatform App"
