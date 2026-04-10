@@ -359,8 +359,8 @@
       },
       {
         "details": {
-          "name": "WLMOBILEPAY",
-          "description": "This applications turns your smartphone into a POS terminal",
+          "name": "TapOnMobile",
+          "description": "iOS Architect for Worldline’s Tap on Mobile solution, a fintech product enabling secure contactless payments on mobile devices.\n\nLed the design and implementation of the iOS application architecture, ensuring scalability, security, and compliance in a payment-critical environment.\n\nCollaborated with cross-functional teams to deliver a robust, production-ready solution aligned with business and regulatory requirements.",
           "URL": "https://play.google.com/store/apps/details?id=com.worldline.mprime",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/f5693b38-0832-430e-82ba-2f96d28af50e_unnamed-4.png",
@@ -826,7 +826,7 @@
         "name": "Sabadell Consumer Finance Android App"
       },
       {
-        "name": "WLMOBILEPAY"
+        "name": "TapOnMobile"
       }
     ]
   }
