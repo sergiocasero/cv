@@ -86,15 +86,16 @@
         "organization": {
           "name": "Worldline Global",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/7527e4d0-f55a-4c75-b8e5-e12c235bad0d_iu.png",
-            "alt": "iu.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/04/10/99838073-e72b-45d6-8b34-0388b9cb5bc0_worldline-mint-verti.png",
+            "alt": "Worldline-Mint-Vertical.png"
           },
           "URL": "https://worldline.com"
         },
         "roles": [
           {
             "name": "Mobile Team Lead & (Mobile|Frontend expert Lead)",
-            "startDate": "2019-10-01"
+            "startDate": "2019-10-01",
+            "finishDate": "2025-02-01"
           }
         ]
       },
