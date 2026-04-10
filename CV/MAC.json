@@ -390,6 +390,20 @@
           {
             "name": "Developer",
             "startDate": "2018-06-01",
+            "competences": [
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "SwiftUI",
+                "type": "technology"
+              }
+            ],
             "finishDate": "2019-12-01"
           }
         ]
