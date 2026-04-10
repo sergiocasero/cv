@@ -570,6 +570,12 @@
       },
       {
         "skill": {
+          "name": "Deepseek AI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Flutter",
           "type": "technology"
         }
@@ -589,6 +595,12 @@
       {
         "skill": {
           "name": "Kotlin Multiplatform Mobile",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Qwen",
           "type": "technology"
         }
       },
@@ -736,11 +748,15 @@
         "type": "technology"
       },
       {
+        "name": "Deepseek AI",
+        "type": "technology"
+      },
+      {
         "name": "Kotlin",
         "type": "technology"
       },
       {
-        "name": "Kotlin Multiplatform Mobile",
+        "name": "Qwen",
         "type": "technology"
       },
       {
