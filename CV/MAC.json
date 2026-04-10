@@ -84,6 +84,44 @@
       },
       {
         "organization": {
+          "name": "MarwanAI",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/04/10/e492beb7-020c-4a3d-a6ad-5ad12e5be4e9_marwanai-logo.png",
+            "alt": "MarwanAI-Logo.png"
+          },
+          "URL": "https://marwanai.com"
+        },
+        "roles": [
+          {
+            "name": "CEO",
+            "startDate": "2025-01-01",
+            "competences": [
+              {
+                "name": "Deepseek AI",
+                "type": "technology"
+              },
+              {
+                "name": "Gemma",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Qwen",
+                "type": "technology"
+              },
+              {
+                "name": "web hosting",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Worldline Global",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/04/10/99838073-e72b-45d6-8b34-0388b9cb5bc0_worldline-mint-verti.png",
