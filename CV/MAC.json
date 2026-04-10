@@ -220,9 +220,10 @@
         "details": {
           "name": "Financial Times",
           "description": "Leading the Kotlin Multiplatform (KMP) strategy for the native mobile application of the Financial Times, a global product with millions of users worldwide.\n\nResponsible for defining and implementing cross-platform architecture, enabling code sharing between Android and iOS while maintaining high performance and platform-specific quality.\n\nWorking closely with cross-functional teams to ensure scalable, maintainable, and production-ready solutions, improving development efficiency and reducing duplication across platforms.\n\nDriving adoption of modern mobile technologies and best practices within a high-impact, large-scale product environment.",
+          "URL": "https://ft.com",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/04/10/e525c1b4-c23c-49fc-9792-1908bab5ffc5_ft.png",
-            "alt": "ft.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/04/10/04d072fb-01d9-4a2c-8f6c-397b25f594d7_ft_logo_icon_169138.png",
+            "alt": "ft_logo_icon_169138.png"
           }
         },
         "type": "sideProject",
