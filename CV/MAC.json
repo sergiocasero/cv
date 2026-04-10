@@ -647,6 +647,7 @@
       }
     ],
     "desiredJobDescription": "The perfect job I looking for is the ones that ables me to learn every day",
+    "goodPractices": "I design and build scalable systems with a strong focus on simplicity, maintainability, and long-term evolution.\n\nI take a pragmatic approach to best practices such as Clean Code, TDD, and CI/CD, applying them where they provide real value rather than following them dogmatically.\n\nExperienced in defining architecture standards, release strategies, and development workflows that enable teams to deliver quickly and safely.\n\nI aim to reduce unnecessary complexity, limit dependency overhead, and make technology decisions aligned with business impact.\n\nI strongly believe in collaboration, mentoring, and continuous learning as key drivers of high-performing teams.",
     "projects": [
       {
         "name": "Butxaca Flutter App"
